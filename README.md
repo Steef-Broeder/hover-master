@@ -1,2 +1,5 @@
-# pong-master
-A collection of stupid pong ai agents
+# hover-master
+
+An attempt to have an ai hover a simulated drone.
+
+**Current status:** incomplete
